@@ -1,2 +1,6 @@
+
 # java---file-hiding-project
-This is a java project, it uses java as the operational language and MY SQL for database management, here a user can sign in, login along with accessing the platform to hide files, unhide them and see the list of files user has stored
+
+• Developed a file hiding system incorporating user signup/login with OTP via email.
+• Implemented file path input for storing file data in a MySQL database in binary format and secure file deletion.
+• Enabled file retrieval by ID, creating empty files and extracting binary data for seamless restoration
